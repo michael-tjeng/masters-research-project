@@ -18,49 +18,49 @@ Please refer to the submitted report on Canvas for more details of the entire pr
 
 Below is a brief description of folders and key files in this repository:
 
-├── .git
-├── .ipynb_checkpoints
-├── archive
-├── datasets
-│   ├── 1. online_shoppers_intention.csv
-│   ├── 2. online_shoppers_intention_dirty.csv
-│   ├── 3. online_shoppers_intention_clean.csv
-├── .gitignore
-├── 0.5 install_libraries.ipynb
-├── 1. load_data_make_dirty.ipynb
-├── 2. data_cleaning.ipynb
-├── 3. eda.ipynb
-├── 4. Experiment 1 (SVM).ipynb
-├── 5. Experiment 2 (SVM).ipynb
-├── 6. Experiment 3 (SVM).ipynb
-├── 7. Experiment 4 (SVM).ipynb
-├── 8. Experiment 5 (Boosting).ipynb
-├── 9. Experiment 6 (Boosting).ipynb
-├── 10. Experiment 7 (Boosting).ipynb
-├── 11. Experiment 8 (Boosting).ipynb
-├── 12. Experiment 9 (NN).ipynb
-├── 13. Experiment 10 (NN).ipynb
-├── 14. Experiment 11 (NN).ipynb
-├── 15. Experiment 12 (NN).ipynb
-├── experiment_variables_and_results.png
-├── masters-research-project.code-workspace
-├── NN1.png
-├── NN2.png
-├── NN3.png
-├── NN4.png
-├── optuna_study_neural_network_1.db
-├── optuna_study_neural_network_2.db
-├── optuna_study_neural_network_3.db
-├── optuna_study_neural_network_4.db
-├── optuna_study_svm_1.db
-├── optuna_study_svm_2.db
-├── optuna_study_svm_3.db
-├── optuna_study_svm_4.db
-├── optuna_study_xgboost_1.db
-├── optuna_study_xgboost_2.db
-├── optuna_study_xgboost_3.db
-├── optuna_study_xgboost_4.db
-├── README.md
+- .git
+- .ipynb_checkpoints
+- archive
+- datasets
+- 1. online_shoppers_intention.csv
+- 2. online_shoppers_intention_dirty.csv
+- 3. online_shoppers_intention_clean.csv
+- .gitignore
+- 0.5 install_libraries.ipynb
+- 1. load_data_make_dirty.ipynb
+- 2. data_cleaning.ipynb
+- 3. eda.ipynb
+- 4. Experiment 1 (SVM).ipynb
+- 5. Experiment 2 (SVM).ipynb
+- 6. Experiment 3 (SVM).ipynb
+- 7. Experiment 4 (SVM).ipynb
+- 8. Experiment 5 (Boosting).ipynb
+- 9. Experiment 6 (Boosting).ipynb
+- 10. Experiment 7 (Boosting).ipynb
+- 11. Experiment 8 (Boosting).ipynb
+- 12. Experiment 9 (NN).ipynb
+- 13. Experiment 10 (NN).ipynb
+- 14. Experiment 11 (NN).ipynb
+- 15. Experiment 12 (NN).ipynb
+- experiment_variables_and_results.png
+- masters-research-project.code-workspace
+- NN1.png
+- NN2.png
+- NN3.png
+- NN4.png
+- optuna_study_neural_network_1.db
+- optuna_study_neural_network_2.db
+- optuna_study_neural_network_3.db
+- optuna_study_neural_network_4.db
+- optuna_study_svm_1.db
+- optuna_study_svm_2.db
+- optuna_study_svm_3.db
+- optuna_study_svm_4.db
+- optuna_study_xgboost_1.db
+- optuna_study_xgboost_2.db
+- optuna_study_xgboost_3.db
+- optuna_study_xgboost_4.db
+- README.md
 
 ### **Folders**
 
@@ -84,8 +84,8 @@ Below are the experiment variables and their results:
 1. **Download the repository onto your computer**  
 
 2. **Run the following .ipynb files in sequential order**
-**0.5 install_libraries.ipynb**
-**1. load_data_make_dirty.ipynb**
-**2.data_cleaning.ipynb**
-**3.eda.ipynb**
-**Experiment notebooks (5 to 15 in any order)**
+-0.5 install_libraries.ipynb
+- 1. load_data_make_dirty.ipynb
+- 2.data_cleaning.ipynb
+- 3.eda.ipynb
+- Experiment notebooks (5 to 15 in any order)

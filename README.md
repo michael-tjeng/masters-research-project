@@ -88,4 +88,4 @@ Below are the experiment variables and their results:
 - 1. load_data_make_dirty.ipynb
 - 2. data_cleaning.ipynb
 - 3. eda.ipynb
-- Experiment notebooks (5 to 15 in any order)
+- Experiment notebooks (4 to 15 in any order)

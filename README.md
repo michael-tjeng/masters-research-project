@@ -84,7 +84,7 @@ Below are the experiment variables and their results:
 1. **Download the repository onto your computer**  
 
 2. **Run the following .ipynb files in sequential order**
--0.5 install_libraries.ipynb
+- 0.5 install_libraries.ipynb
 - 1. load_data_make_dirty.ipynb
 - 2.data_cleaning.ipynb
 - 3.eda.ipynb
